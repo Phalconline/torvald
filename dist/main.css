@@ -1,0 +1,17 @@
+body {
+  height: 100vh;
+  width: 100%;
+  background: red;
+}
+body p {
+  color: #000000;
+}
+body header {
+  background-repeat: round;
+}
+
+header {
+  background-repeat: round;
+}
+
+/*# sourceMappingURL=main.css.map */
